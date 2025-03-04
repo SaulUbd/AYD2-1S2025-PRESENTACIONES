@@ -146,14 +146,15 @@ layout: two-cols-header
 ---
 
 # Estilos de arquitectura
-## Ejemplos
 [*fuente](https://en.wikipedia.org/wiki/List_of_software_architecture_styles_and_patterns)
 
 ::left::
 
+**Estilos de arquitectura**
 - Event-driven architecture
 - Hexagonal Architecture (also known as Ports and Adapters)
 - Layered architecture
+    - Client–server model
 - Microkernel architecture
 - Pipes and Filters architecture
 - Microservices
@@ -163,16 +164,17 @@ layout: two-cols-header
 
 ::right::
 
+**Patrones de arquitectura**
 - Inbox and outbox pattern
 - Asynchronous messaging
 - Batch request
-- Client–server model
 - Model–view–controller
 - Peer-to-peer
 - Publish–subscribe pattern
 - Rate limiting
 - Request–response
 - Rule-based
+- MVC
 
 ---
 layout: image-right
